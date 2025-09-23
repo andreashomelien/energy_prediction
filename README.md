@@ -1,4 +1,4 @@
-Dette prosjektet viser hvordan man kan bygge og implementere en Artifical Neural Network (ANN) regresjonsmodell i Python for å predikere elektrisk energiproduksjon i et kraftverk. 
+Dette prosjektet gikk ut på å bygge og implementere en Artifical Neural Network (ANN) regresjonsmodell i Python for å predikere elektrisk energiproduksjon i et kraftverk. 
 
 TensorFlow ble brukt til dataprosessering, trening og evaluering av modellen.
 
